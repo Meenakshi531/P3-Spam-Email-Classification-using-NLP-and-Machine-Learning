@@ -19,7 +19,7 @@ The dataset is preprocessed to remove noise and transform text data into numeric
 - Feature Extraction - Techniques like TF-IDF or Bag of Words convert text into numerical vectors.
 - Machine Learning Model - A pre-trained model (ex: Naive Bayes or SVM) is used for classification.
 
-The model is trained on the processed data and stored in a .pkl file for reuse.
+The model is trained on the processed data and stored in pickel file for reuse.
 ### For Frontend:
 
 We use Built using Streamlit, a lightweight framework for creating interactive web applications.
